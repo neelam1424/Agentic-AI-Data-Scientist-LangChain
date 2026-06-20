@@ -4,9 +4,12 @@ An end-to-end automated machine learning web application built for the KDD cours
 
 ---
 
-## Demo Video
 
-[Watch Demo Video](./agentic-ai-scientist-demo-compressed.mp4)
+## 🎥 Project Demo
+
+<video src="https://github.com/user-attachments/assets/09061e41-7d3d-4ac1-bc75-f63650dc6888" controls width="100%"></video>
+
+
 
 The video file is included in this repository: [`Agentic AI scientist.mp4`](./Agentic%20AI%20scientist.mp4)
 
