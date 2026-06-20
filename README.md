@@ -6,9 +6,7 @@ An end-to-end automated machine learning web application built for the KDD cours
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/your-video-id-here
-
-> **Note:** Replace the link above after uploading `Agentic AI scientist.mp4` as a GitHub release asset or by dragging it into any GitHub issue/PR to get a hosted URL, then paste it here.
+[Watch Demo Video](./agentic-ai-scientist-demo-compressed.mp4)
 
 The video file is included in this repository: [`Agentic AI scientist.mp4`](./Agentic%20AI%20scientist.mp4)
 
